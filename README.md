@@ -11,9 +11,6 @@
 Check out the demo walkthrough on Loom:
 
 **[Watch the Demo Here!](https://www.loom.com/share/a7d6306d13fc424eb99d60b3df2e4e68)**
-```text
-[ Loom Video Embed / Link Placeholder ]
-```
 
 ---
 
